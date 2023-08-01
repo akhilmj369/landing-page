@@ -18,7 +18,7 @@ body{
 .header-link{
     font-size: 18px;
     color: #e5e7eb;
-    word-spacing: 10%;
+    margin: 5px;
 }
 .navbar{
     display: flex;
@@ -50,6 +50,7 @@ h1{
     align-items: center;
     flex-direction: column;
     width: 50%;
+    margin-right: 10px;
 }
 .content-left{
     display: flex;
