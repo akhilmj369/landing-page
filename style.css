@@ -128,3 +128,47 @@ h3{
     justify-content: flex-end;
     margin-right: 250px;
 }
+.last-div{
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.blue-container{
+    background-color: #3882f6;
+    width: 75%;
+    height: 40%;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.left{
+    width:80%;
+    margin-left: 100px;
+    display: flex;
+    flex-direction: column;
+    
+}
+h4{
+    font-size: 24px;
+    color: #e5e7eb;
+    
+}
+.last-p{
+    color: white;
+}
+.right{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 100px;
+}
+.btn-last-div{
+    background-color: #3882f6;
+    color: white;
+    width: 80px;
+    height: 30px;
+    border: 1px solid white;
+    border-radius: 8px;
+}
